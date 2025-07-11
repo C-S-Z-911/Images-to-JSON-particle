@@ -1,4 +1,4 @@
-# 将图片转为JSON格式来生成适配动态粒子壁纸的文件
+# 将图片转为适配动态粒子壁纸的JSON文件
 
 > 动态粒子壁纸steam创意工坊:https://steamcommunity.com/sharedfiles/filedetails/?id=3486243270
 > 
